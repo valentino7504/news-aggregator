@@ -10,3 +10,8 @@ wheels/
 .venv
 .env
 .prod.env
+
+# local supabase instance uggh node
+node_modules/
+package-lock.json
+package.json
